@@ -2,8 +2,8 @@ numpy
 pandas 
 matplotlib
 seaborn
+opencv-python
 scikit-learn
 flask
-beautifulsoup4
-requests
+pillow
 -e .
